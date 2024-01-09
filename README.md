@@ -10,9 +10,8 @@ then
 ```
 composer install
 ```
-then make file
-```phpunit.xml
-
+then make file phpunit.xml and put into
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/8.0/phpunit.xsd"
